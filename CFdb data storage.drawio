@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T16:05:56.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" version="13.7.3" etag="Pn8GIA3xCwj5huDmjQ46" type="github"><diagram id="v3qNunK8TVtS1WshiKFb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-18T20:24:58.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="s0sWszQtPFQ6lwz51aRK" version="13.7.3" type="github">
+  <diagram id="v3qNunK8TVtS1WshiKFb" name="Page-1">
+    <mxGraphModel dx="1238" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pjP0aAaf_kb0_sIN4tcC-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="620" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="pjP0aAaf_kb0_sIN4tcC-6" value="CF Clinic" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="pjP0aAaf_kb0_sIN4tcC-5">
+          <mxGeometry width="620" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjP0aAaf_kb0_sIN4tcC-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Secondary card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#6C767D;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="pjP0aAaf_kb0_sIN4tcC-5">
+          <mxGeometry x="10" y="60" width="600" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pjP0aAaf_kb0_sIN4tcC-8" value="Clinician Note" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#6C767D;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="pjP0aAaf_kb0_sIN4tcC-7">
+          <mxGeometry width="600" height="50" relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
